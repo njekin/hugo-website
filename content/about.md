@@ -7,7 +7,7 @@ date = "2014-04-09"
 
 I'm a environmental scientist. Currently I'm a ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA). I am pursueing a career in the field of data-driven environmental and health informatics in academia or industry. While trained in modern molecular microbiology, I bring a broad expertise in fundamental experiment biology that supports a base for design and validation of computationally driven research investigations.
 
-{{< img-post "jun" "profile.jpg" "" "left" >}}
+-------
 
 ## Education
 - Ph.D. in Microbiology, Minor in Computer Science, University of Tennessee, Knoxville, TN, USA 8/2008 ~ 12/2015  

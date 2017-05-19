@@ -1,9 +1,9 @@
-baseurl = "http://jun-wang.us"
+#baseurl = "http://jun-wang.us"
 languageCode = "en-us"
 title = "Jun Wang (汪俊)"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
-paginate = 3
+paginate = 5
 disqusShortname = "jun-wang"
 googleAnalytics = "UA-99570491-1"
 
