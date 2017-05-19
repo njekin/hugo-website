@@ -1,7 +1,7 @@
 baseurl = "http://jun-wang.us"
 relativeURLs = true
 languageCode = "en-us"
-title = "Jun Wang (汪俊)"
+title = "Jun Wang 汪俊"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 5
@@ -42,11 +42,11 @@ googleAnalytics = "UA-99570491-1"
 # parms.intro will appear on the sidebar
 # This is optional, but it's suggested to use
 [params.intro]
-    header    = "Jun Wang (汪俊)"
+    header    = "Jun Wang 汪俊"
 
     paragraph = "Toxicologist | Data Scientist | Computational Biologist | Microbiologist"
 
-    about     = "I’m a environmental scientist. Currently I’m a ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)."
+    about     = "I’m a environmental health scientist. Currently I’m a ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
