@@ -49,7 +49,7 @@ googleAnalytics = "UA-99570491-1"
 
     paragraph = "Toxicologist | Data Scientist | Computational Biologist | Microbiologist"
 
-    about     = "I’m an environmental health scientist. Currently I’m a ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)."
+    #about     = "I’m an environmental health scientist. Currently I’m a ORISE Postdoctoral Fellow at US Environmental Protection Agency (EPA)."
 
 # This will also appear on the sidebar.
 # A width of less than 100px is recommended
@@ -58,9 +58,9 @@ googleAnalytics = "UA-99570491-1"
     src       = "/img/main/profile.jpg"
     # modify your picture in the shape of a circle or
     # future imperfect's hexagonal shape
-    circle    = true
-    imperfect = false
-    width     = "100"
+    circle    = false
+    imperfect = true
+    width     = "70"
     alt       = "Jun-Wang.us"
 
 # Adjust the amount of recent posts on the sidebar.
