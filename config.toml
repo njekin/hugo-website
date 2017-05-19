@@ -4,7 +4,7 @@ title = "Jun Wang (汪俊)"
 theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
-disqusShortname = "njekin"
+disqusShortname = "jun-wang"
 googleAnalytics = "UA-99570491-1"
 
 [params]
@@ -108,7 +108,7 @@ googleAnalytics = "UA-99570491-1"
     wordpress       = ""
     tumblr          = ""
     xing            = ""
-    linkedin        = ""
+    linkedin        = "jun-wang-4b75a51a"
     slideshare      = ""
     stackoverflow   = ""
     reddit          = ""
