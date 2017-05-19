@@ -1,0 +1,29 @@
+---
+title: First trial post
+author: Jun Wang
+date: '2017-05-15'
+slug: first-trial-post
+categories: []
+tags: []
+description: ''
+draft: yes
+topics: []
+---
+
+# Title 1
+## Title 2  
+Haha try it.!  
+> quote
+
+```{r, message=FALSE, warning=FALSE}
+library(ggplot2)
+library(plotly)
+data("USJudgeRatings")
+
+qplot(data = USJudgeRatings, x=CONT, y=INTG)
+a <- qplot(data = USJudgeRatings, x=CONT, y=INTG)
+
+ggplotly(a)
+
+```
+
