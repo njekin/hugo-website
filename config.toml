@@ -1,4 +1,5 @@
-#baseurl = "http://jun-wang.us"
+baseurl = "http://jun-wang.us"
+relativeURLs = true
 languageCode = "en-us"
 title = "Jun Wang (汪俊)"
 theme = "hugo-future-imperfect"
