@@ -5,7 +5,7 @@ theme = "hugo-future-imperfect"
 preserveTaxonomyNames = true
 paginate = 3
 disqusShortname = "njekin"
-googleAnalytics = ""
+googleAnalytics = "UA-99570491-1"
 
 [params]
     # Sets the meta tag description, usually reserved for the main page
