@@ -15,7 +15,7 @@ googleAnalytics = "UA-99570491-1"
     navbarTitle          = "Jun-Wang.Us"
     # Social media buttons that appear on the sidebar
     socialAppearAtTop    = true
-    socialAppearAtBottom = true
+    socialAppearAtBottom = false
     # set this to the section name if section is not post
     viewMorePostLink     = "/blog/"
 
