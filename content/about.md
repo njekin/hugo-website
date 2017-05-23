@@ -81,7 +81,12 @@ Being part of the advanced data mining for biology class hosted by Dr. Michael B
 -	21st & 22nd Tennessee Water Resources Symposium, 2010& 2011, Nashville, TN
 
 ### Paper Review:
-Reviewer for *Environmental Science & Technology* (8 manuscripts), *Scientific Reports* (1 manuscript)
+- *Environmental Science & Technology* (8 manuscripts)  
+- *Scientific Reports* (1 manuscript) 
+- *Environmental Pollution* (1 manuscript) 
+- *Journal of Hazardous Materials* (1 manuscript)
+- [Publon verified reviewer profile](https://publons.com/a/1203565/)
+
 
 
 
